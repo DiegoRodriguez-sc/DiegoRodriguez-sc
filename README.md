@@ -20,7 +20,7 @@
 
 ### 🛠 Tech Stack
 
-* 💻 &#160;![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+- 💻 &#160;![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![Pascal](https://img.shields.io/badge/-Pascal-333333?style=flat&logo=PCGamingWiki&logoColor=FCC624)
 - 🌐 &#160;![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5) ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript)
 ![React.js](https://img.shields.io/badge/-React.js-333333?style=flat&logo=React)
@@ -38,7 +38,7 @@
 
 
 ### cv
-- 🧰 [Portafolio DR](https://zhousiwei.gitee.io/ibooks/)
+- 🧰 [Portafolio DR](https://diego-rodriguez-sc.netlify.app/)
 - 📝 [Curriculum Vitae](https://drive.google.com/file/d/1pdJtZaW0Duumf9jWXIZTro921-z9V-_Z/view?usp=sharing)
 
 > ***Ningún sueño se hace realidad, hasta que te levantas, crees y te pones a trabajar***
