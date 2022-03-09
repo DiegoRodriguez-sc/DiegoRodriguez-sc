@@ -38,8 +38,8 @@
 
 
 ### cv
-- 🧰 [Portafolio DR](https://diego-rodriguez-sc.netlify.app/)
-- 📝 [Curriculum Vitae](https://drive.google.com/file/d/1pdJtZaW0Duumf9jWXIZTro921-z9V-_Z/view?usp=sharing)
+- 🧰 [Portafolio DR](https://diego-rodriguez-sc.vercel.app/)
+- 📝 [Curriculum Vitae](https://drive.google.com/file/d/1E_9Kb_rkXwmwEErRmJSEeRMZ5sbgsiAw/view?usp=sharing)
 
 > ***Ningún sueño se hace realidad, hasta que te levantas, crees y te pones a trabajar***
 
